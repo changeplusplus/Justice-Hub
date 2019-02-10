@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\conno\\Documents\\Vanderbilt\\Change++\\chatengine-react-native-sample\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\conno\\Documents\\Vanderbilt\\Change++\\chatengine-react-native-sample\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.54.2\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\conno\\Documents\\Vanderbilt\\Change++\\justice_hub\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\conno\\Documents\\Vanderbilt\\Change++\\justice_hub\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.54.2\\res\\xml\\preferences.xml"
+    }
+]
