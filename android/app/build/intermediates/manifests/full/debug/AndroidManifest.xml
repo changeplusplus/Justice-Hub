@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.chatenginereactnativesample"
+    package="com.JusticeHub"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -16,13 +16,13 @@
     <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
-        android:name="com.chatenginereactnativesample.MainApplication"
+        android:name="com.JusticeHub.MainApplication"
         android:allowBackup="false"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.chatenginereactnativesample.MainActivity"
+            android:name="com.JusticeHub.MainActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
             android:label="@string/app_name"
             android:windowSoftInputMode="adjustResize" >

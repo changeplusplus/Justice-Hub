@@ -2,7 +2,7 @@
 manifest
 ADDED from C:\Users\conno\Documents\Vanderbilt\Change++\justice_hub\android\app\src\main\AndroidManifest.xml:1:1-26:12
 	package
-		ADDED from C:\Users\conno\Documents\Vanderbilt\Change++\justice_hub\android\app\src\main\AndroidManifest.xml:2:5-46
+		ADDED from C:\Users\conno\Documents\Vanderbilt\Change++\justice_hub\android\app\src\main\AndroidManifest.xml:2:5-29
 		INJECTED from C:\Users\conno\Documents\Vanderbilt\Change++\justice_hub\android\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\conno\Documents\Vanderbilt\Change++\justice_hub\android\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -39,7 +39,7 @@ MERGED from [org.webkit:android-jsc:r174650] C:\Users\conno\Documents\Vanderbilt
 		ADDED from C:\Users\conno\Documents\Vanderbilt\Change++\justice_hub\android\app\src\main\AndroidManifest.xml:12:7-38
 	android:name
 		ADDED from C:\Users\conno\Documents\Vanderbilt\Change++\justice_hub\android\app\src\main\AndroidManifest.xml:8:7-38
-activity#com.chatenginereactnativesample.MainActivity
+activity#com.JusticeHub.MainActivity
 ADDED from C:\Users\conno\Documents\Vanderbilt\Change++\justice_hub\android\app\src\main\AndroidManifest.xml:13:7-22:18
 	android:label
 		ADDED from C:\Users\conno\Documents\Vanderbilt\Change++\justice_hub\android\app\src\main\AndroidManifest.xml:15:9-41
